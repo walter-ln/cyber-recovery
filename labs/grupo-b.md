@@ -1,7 +1,7 @@
 # Grupo B — Operação Fênix
 ## Backup versionado: quando a versão necessária deixa de existir
 
-> **Percurso:** Aula 1 (3h) e Aula 2 (3h) consecutivas; 5h assíncronas apenas como complemento  
+> **Percurso:** Aula 1 (3h) e Aula 2 (3h) consecutivas. Conteúdo seguinte assíncrono.
 > **Papel:** Cyber Recovery Cell da ACME Brasil
 
 Antes de começar, leia:
