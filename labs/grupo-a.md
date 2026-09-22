@@ -1,7 +1,7 @@
 # Grupo A — Operação Fênix
 ## Barreira operacional, recovery points e domínio administrativo
 
-> **Percurso:** Aula 1 (3h) e Aula 2 (3h) consecutivas; 5h assíncronas apenas como complemento
+> **Percurso:** Aula 1 (3h) e Aula 2 (3h) consecutivas. Conteúdo seguinte assíncrono.
 
 Antes de começar, leia:
 
